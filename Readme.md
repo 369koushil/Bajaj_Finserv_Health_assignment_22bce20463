@@ -1,4 +1,8 @@
 # BFHL Node.js Project
+
+## Project structure
+
+```
 ├── index.js # Main server file
 ├── package.json # Node.js dependencies and scripts
 ├── routes/
@@ -8,6 +12,7 @@
 ├── utils/
 │ └── helpers.js # Helper functions
 └── Readme.md # Project documentation
+```
 ---
 
 ## About
