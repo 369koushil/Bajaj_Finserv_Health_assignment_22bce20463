@@ -1,0 +1,25 @@
+{
+  "name": "bajaj_finserv_health_assignment",
+  "version": "1.0.0",
+  "description": "building rest api(assignment)",
+  "homepage": "https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463#readme",
+  "bugs": {
+    "url": "https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463.git"
+  },
+  "license": "ISC",
+  "author": "koushil_22bce20463",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
