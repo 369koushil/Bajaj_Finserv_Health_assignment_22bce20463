@@ -1,7 +1,6 @@
 # BFHL Node.js Project
 ## Project Structure
 ```
-project/
 ├── index.js           # Main server file
 ├── package.json       # Node.js dependencies and scripts
 ├── routes/
@@ -39,7 +38,6 @@ The project is deployed on an **AWS EC2 instance**.
 
 ```bash
 git clone https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463.git
-cd project
 ```
 
 2. **Install dependencies**
