@@ -32,9 +32,7 @@ The project is deployed on an **AWS EC2 instance**.
 * **HTTP Method**: POST
 
 **Security group rules** for EC2:
-
-* HTTP (TCP, 80) open to anywhere (0.0.0.0/0)
-* If using port 3000 locally, allow TCP 3000 in security group
+* allow TCP 3000 in security group
 
 ---
 
