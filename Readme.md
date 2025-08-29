@@ -38,7 +38,7 @@ The project is deployed on an **AWS EC2 instance**.
 1. **Clone the repository**
 
 ```bash
-git clone `https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463.git`
+git clone https://github.com/369koushil/Bajaj_Finserv_Health_assignment_22bce20463.git
 cd project
 ```
 
