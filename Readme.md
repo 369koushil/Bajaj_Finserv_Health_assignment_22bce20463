@@ -27,7 +27,7 @@ It exposes a single route `/bfhl` where you can send POST requests.
 The project is deployed on an **AWS EC2 instance**.
 
 * **OS**: Ubuntu
-* **Port**: 80 (for public access)
+* **Port**: 3000 (for public access)
 * **Public URL**: [http://ec2-35-175-220-72.compute-1.amazonaws.com:3000/bfhl](http://ec2-35-175-220-72.compute-1.amazonaws.com:3000/bfhl)
 * **HTTP Method**: POST
 
