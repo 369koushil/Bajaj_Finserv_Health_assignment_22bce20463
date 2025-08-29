@@ -1,12 +1,13 @@
 # BFHL Node.js Project
-## Project Structure
-```
-├── index.js           # Main server file
-├── package.json       # Node.js dependencies and scripts
+├── index.js # Main server file
+├── package.json # Node.js dependencies and scripts
 ├── routes/
-│   └── bfhl.js        # Route handling for /bfhl
-└── README.md          # Project documentation
-```
+│ └── bfhl.js # Route handling for /bfhl
+├── controllers/
+│ └── bfhlController.js # Controller logic for /bfhl
+├── utils/
+│ └── helpers.js # Helper functions
+└── Readme.md # Project documentation
 ---
 
 ## About
