@@ -1,9 +1,9 @@
 const { categorizeData, buildConcatString } = require("../utils/helpers");
 
-const FULL_NAME = "chilla_koushil_kumar_reddy"; 
-const DOB = "10092004";       
-const EMAIL = "koushil463@gmail.com";
-const ROLL_NUMBER = "22BCE20463";
+const FULL_NAME = process.env.FULL_NAME; 
+const DOB = process.env.DOB;       
+const EMAIL = process.env.EMAIL;
+const ROLL_NUMBER = process.env.ROLL_NUMBER;
 
 const processData = (req, res) => {
   try {
